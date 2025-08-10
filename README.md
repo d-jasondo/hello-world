@@ -1,27 +1,45 @@
 # Hello, World!
-
 A simple starter project to demonstrate basic repository setup and structure.
 
+## Skills & Technologies
+
+### Programming Languages
+- **Python**: Django, FastAPI
+- **Java**: Spring Framework
+- **C**: System programming
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+
+### Backend Development
+- REST APIs
+- Server-side architecture
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Tools & DevOps
+- Git version control
+- GitHub Actions (CI/CD)
+
 ## Getting Started
-
 To get started with this project:
-
 1. Clone the repository
 2. Navigate to the project directory
 3. Follow the installation instructions below
 
 ### Prerequisites
-
 - List any prerequisites here
 
 ### Installation
-
 ```bash
 # Add installation steps here
 ```
 
 ## Project Structure
-
 ```
 hello-world/
 ├── README.md          # Project documentation
@@ -29,7 +47,6 @@ hello-world/
 ```
 
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
@@ -39,11 +56,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
 **Jaison Rocky**
 
 Project Link: [https://github.com/d-jasondo/hello-world](https://github.com/d-jasondo/hello-world)
